@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PauProg
+- 👀 I’m interested in basquetball and programming.
+- 🌱 I’m currently learning HTML & CSS
+- 📫 Contact me on paumedvazquez@gmail.com
