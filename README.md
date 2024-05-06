@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Basic frontend development**
 
-- 👨‍💻 All of my projects are available at [www.pauprog.tech](www.pauprog.tech)
+- 👨‍💻 All of my projects are available at [https://www.pauprog.tech](https://www.pauprog.tech)
 
 - 📫 How to reach me **paumedvazquez@gmail.com**
 
