@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PauProg</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Basic frontend development**
+- 🌱 I’m currently learning **frontend development**
 
 - 👨‍💻 All of my projects are available at [https://www.pauprog.tech](https://www.pauprog.tech)
 
