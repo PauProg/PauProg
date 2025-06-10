@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Funtasies's](https://www.funtasies.fun/) website
+- 🔭 I’m currently working on my brand new portfolio
 
-- 🌱 I’m currently learning **Astro and TailwindCSS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.pauprog.tech/](https://portfolio.pauprog.tech/)
 
