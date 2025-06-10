@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.pauprog.tech/](https://portfolio.pauprog.tech/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python and Linux**
-
 - 📫 How to reach me **contact@pauprog.tech**
 
 - ⚡ Fun fact **I play basketball 🏀**
