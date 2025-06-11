@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.pauprog.tech/](https://portfolio.pauprog.tech/)
+- 👨‍💻 You can see some of my projects on [https://pauprog.dev/](https://pauprog.dev/)
 
 - 📫 How to reach me **contact@pauprog.tech**
 
