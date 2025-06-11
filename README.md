@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can see some of my projects on [https://pauprog.dev/](https://pauprog.dev/)
 
-- 📫 How to reach me **contact@pauprog.tech**
+- 📫 How to reach me [hello@pauprog.dev](mailto:hello@pauprog.dev)
 
 - ⚡ Fun fact **I play basketball 🏀**
 
